@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name":  "586091293448.dkr.ecr.ap-northeast-2.amazonaws.com/bdor665/awstestrepository:springback",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 5000
+    }
+  ]
+}
